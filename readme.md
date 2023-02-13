@@ -71,7 +71,7 @@ Most pulsations exhibit 4 geometric ratios that are expressive of symmetry and g
 The visualization graphs pulsations over time in a variety of modes, with a frame-by-frame animation of the UAP pulsation.  The colored circles and bars represent interval proportions that have geometric precision of more than 1%.
 
 ### Analysis Inspiration
-The inspiration and capacity to perform this analysis is directly derived from dreams involving ET/NHI beings.  Quite literally, in my dreams, a Tall Grey ET/NHI told me to learn ruler and compass geometry and then apply it to several sources of signal.  It instructed me to document my dreams and hypotheses before analysis, which I did.  I am currently exploring the implication of this anomalous dream activity.
+The inspiration and capacity to perform this analysis is directly derived from dreams involving ET/NHI beings.  Quite literally, in my dreams, an ET/NHI told me to learn ruler and compass geometry and then apply it to several sources of signal.  It instructed me to document my dreams and hypotheses before analysis, which I did.  I am currently exploring the implication of this anomalous dream activity.
 
 Learn more about my story and geometric dreams in the video series The Universal Language: https://youtube.com/playlist?list=PLc1xaLwy4Qv5unOPOuEubZXDTqdjgwuut
 
