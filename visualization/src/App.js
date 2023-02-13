@@ -174,7 +174,7 @@ class App extends React.Component {
     let dots = pulses.map((pulse, i) => {
       let visibility = "visible"
       if (pulse.peak_frame - this.state.current_frame  > 1000 || this.state.current_frame - pulse  > 1000) {
-        visibility = "hidden"
+        // visibility = "hidden"
       }
       if (pulse.ratios_count > 3) {
         if (pulse.ratios.match("1.")) {

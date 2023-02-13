@@ -5,7 +5,9 @@
 
 ![Alt text](/ETolemy.PNG?raw=true "Screenshot of ETolemy Visualization")
 
-For a video demonstration, see: https://youtu.be/Z4SDEHk9T6Y
+For a video demonstration: https://youtu.be/Z4SDEHk9T6Y
+
+For a video walkthrough of this repo: https://youtu.be/memN6-zlDpc
 
 This repository contains prototype code for geometry analysis and visualization software that is focused upon the analysis of UAP footage. 
 
@@ -94,6 +96,7 @@ Written with Python3 and Jupyter Notebooks
 4. Run visualization
 
 See Tableau Public workbook for interactive data: https://public.tableau.com/views/ETolemy-MonroeUAPData/Sheet1
+See this Tableau I used to print out the signal to analyze with ruler and compass: https://public.tableau.com/views/MUAP-correctedbystarswithvalenceanalysisverticalandhortizontalproportionat4tohalfmeasure/Dashboard1
 
 ## Visualization Steps
 Written with Nodejs and React

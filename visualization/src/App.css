@@ -197,7 +197,7 @@ body {
   z-index: 100000;
 }
 body  {
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 .hidden {
   display: none;;
