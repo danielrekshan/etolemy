@@ -1,4 +1,5 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 # ETolemy - A Demonstration of Geometry with the Pulsations of a UAP
 
@@ -121,4 +122,5 @@ This means you can use or adapt any part of the analysis or visualization softwa
 
 Please give credit to Rob Freeman for the original footage and Dave Palachik for the original analysis, both of which are publically available through Rob's web presence.
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
