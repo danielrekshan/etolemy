@@ -115,7 +115,7 @@ It appears to be asking for attention and energy, while giving back demonstratio
 2. the psychical technology required to observe and respond to human emotion and intention
 3. geometry and mathematics essential to human cognition and scientific progress
 
-If this is truly an ET/NHI signal, we can deduce that they are intelligent, intentional, respectful, peaceful, multidimensional, and patient.  
+If this is truly an ET/NHI signal, we could deduce that they are intelligent, intentional, respectful, peaceful, multidimensional, and patient.  
 
 If we, as a culture, work with this and similar signals, we may directly relate with the source of the signal.  I am sharing my analysis and visualization files with the Creative Commons license because I want to live in a world where we relate to foreign cultures with respect and beauty.
 
