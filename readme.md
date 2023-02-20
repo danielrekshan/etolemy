@@ -5,9 +5,10 @@
 
 ![Alt text](/ETolemy.PNG?raw=true "Screenshot of ETolemy Visualization")
 
-For a video demonstration: https://youtu.be/Z4SDEHk9T6Y
-
-For a video walkthrough of this repo: https://youtu.be/memN6-zlDpc
+* Full demonstration of geometry in Monroe UAP: https://youtu.be/Z4SDEHk9T6Y
+* Video walkthrough of this repo: https://youtu.be/memN6-zlDpc
+* Video documentation of analysis technique: https://youtu.be/Mu4-SgFFYlQ
+* Presentation of 7 UAP analyses: https://youtu.be/4n0RHaEz39g
 
 This repository contains prototype code for geometry analysis and visualization software that is focused upon the analysis of UAP footage. 
 
