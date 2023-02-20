@@ -104,6 +104,10 @@ Written with Nodejs and React
 2. npm run start
 3. click start button in bottom left of web browser
 
+## UAP Cases and Definition of Analysis Technique
+Video presentation of 7 cases using analysis techquie: https://youtu.be/4n0RHaEz39g
+
+Please see the README.md file in the /uap_cases directory for information regarding the cases and the definition of UAP analysis technique.
 
 ## License
 There is a non-trivial likelihood that the pulsation of light in this UAP footage is a documented, mathematical, and empathetic communication signal from an ET or non-human intelligence that responded to conscious invitation and intention.
