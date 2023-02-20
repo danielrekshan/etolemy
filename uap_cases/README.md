@@ -21,7 +21,7 @@ The technique is expressed through the following steps:
 4. Generation of analyzed frames for animation
 5. Visualization of CSV data
 
-## Technical Steps
+## Required familiarity with programming and Python
 These notes assume that you have a basic familiarity with computer programming.  If you do not, you can learn enough about programming to reproduce and work with these analysis in 4-8 hours.  If you would like to learn, I recommend the following course of study:
 1. Python tutorial from w3 schools
 2. Jupyter Notebook tutorial focused on data frames
@@ -38,6 +38,20 @@ The technique was developed on Windows 10 using Visual Studio Code with Ubuntu W
 * Tableau Public for data visualization
 * ImageMagick for GIF creation
 * OBS Studio for video presentations
+
+## Isolate UAP in Video
+The process of isolating the UAP within the video footage is a manual process.  The entire process of analysis is very simple when it starts with a clear example of the UAP pulsation pattern.  
+
+The process requires personal discernment regarding which video to select.  I prefer publically available and documented cases or those that have a CE-5 context.  The ideal footage involves minimal shaking, keeps the UAP in frame, maintains a steady zoom, does not shift aperature, and keeps only the UAP in frame.  
+
+Once the footage is selected, the UAP needs to be isolate from the rest of the frame to perform analysis.  The techique of applying a mask over the UAP may be applied to other parts of the frame to provide atmospheric measures, such the analysis performed on the bianary stars in the Monroe UAP footage.
+
+You may use any process you like to isolate the UAP footage.  I produce an image with a small transparent circle where the UAP will show and a background similar to the footage background.  An example mask is "/video_example/cosmic mask.png"
+
+I use Open Shot video editor to place the mask onto of the video.  I ensure that transparent circle always encloses the UAP by shifting the x- and y- position of the mask.  Then I export the video.
+
+A sample Open Shot video project is included in /video_example.
+
 
 ## Command Line Prompts
 **Frames**
@@ -97,7 +111,7 @@ The process involves a) computational analysis of UAP footage, b) production of 
 
 Specific novel aspects of the technique include a) frame-by-frame analysis of UAPs into brightness, valence, and area measures, b) application of ruler-and-compass geometry using charts in proportion to drawing tools, and c) production of graphics that demonstrate geometric qualities.
 
-I, Daniel Rekshan, believe this analysis technique to be a novel invention and, as such, my intellectualy property.  I claim widest ownership of the specific techique of UAP analysis as possible so that I, here and now, publish as open-source and non-commercial in all jurisdictions possible.
+I, Daniel Rekshan, believe this analysis technique to be a novel invention and, as such, my intellectualy property.  I claim most ownership of the specific techique of UAP analysis as possible so that I, here and now, publish as open-source and non-commercial in all jurisdictions possible.
 
 This work is offered under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.  Please see the LICENSE file for more information or visit: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
