@@ -1,7 +1,9 @@
-# UAP Analysis Technique
+# The Paradoxical Compass: a novel UAP analysis technique based on computationally-assisted ruler-and-compass geometry
 This directory contains analysis of UAP footage using the ETolemy technique.  It contains data and files sufficient to reproduce, duplicate, or extend the specific analyses or the techique itself. 
 
 The repository include the first 100 frames of each video, but requires you to generate the frames from the each video.
+
+Video documentation and walkthrough: https://youtu.be/Mu4-SgFFYlQ
 
 **Goals**
 
@@ -67,6 +69,7 @@ After installing ImageMagick, generate the GIF animation by navigating to the /f
 <code>convert -delay 5 -loop 0 *.png all5.gif</code>
 
 # Cases
+These cases have publically available video, which are analyzed here under fair use.  Only derivative media are presented here (analysis files).
 ## Just a Plane - Sandy Springs, GA September 2022
 Filmed by John Martin, associated with CE-5
 * Video: https://youtu.be/aEQOtMxwcwE?t=99
